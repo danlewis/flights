@@ -1,15 +1,15 @@
 {
-  "main.css": "/flight/static/css/main.cfcc6aa0.chunk.css",
-  "main.js": "/flight/static/js/main.6c92a20b.chunk.js",
-  "main.js.map": "/flight/static/js/main.6c92a20b.chunk.js.map",
-  "runtime~main.js": "/flight/static/js/runtime~main.0139e3eb.js",
-  "runtime~main.js.map": "/flight/static/js/runtime~main.0139e3eb.js.map",
-  "static/js/2.a9791313.chunk.js": "/flight/static/js/2.a9791313.chunk.js",
-  "static/js/2.a9791313.chunk.js.map": "/flight/static/js/2.a9791313.chunk.js.map",
-  "index.html": "/flight/index.html",
-  "precache-manifest.a8d947a2e075e9a2e603244afb26652c.js": "/flight/precache-manifest.a8d947a2e075e9a2e603244afb26652c.js",
-  "service-worker.js": "/flight/service-worker.js",
-  "static/css/main.cfcc6aa0.chunk.css.map": "/flight/static/css/main.cfcc6aa0.chunk.css.map",
-  "static/media/aircraftatlas.png": "/flight/static/media/aircraftatlas.57ecb70f.png",
-  "static/media/favicon.ico": "/flight/static/media/favicon.c92b85a5.ico"
+  "main.css": "/flights/static/css/main.cfcc6aa0.chunk.css",
+  "main.js": "/flights/static/js/main.f868100d.chunk.js",
+  "main.js.map": "/flights/static/js/main.f868100d.chunk.js.map",
+  "runtime~main.js": "/flights/static/js/runtime~main.0db59b2a.js",
+  "runtime~main.js.map": "/flights/static/js/runtime~main.0db59b2a.js.map",
+  "static/js/2.a9791313.chunk.js": "/flights/static/js/2.a9791313.chunk.js",
+  "static/js/2.a9791313.chunk.js.map": "/flights/static/js/2.a9791313.chunk.js.map",
+  "index.html": "/flights/index.html",
+  "precache-manifest.ec4e3080d45fd2267e27f8f4e5ebbe7a.js": "/flights/precache-manifest.ec4e3080d45fd2267e27f8f4e5ebbe7a.js",
+  "service-worker.js": "/flights/service-worker.js",
+  "static/css/main.cfcc6aa0.chunk.css.map": "/flights/static/css/main.cfcc6aa0.chunk.css.map",
+  "static/media/aircraftatlas.png": "/flights/static/media/aircraftatlas.57ecb70f.png",
+  "static/media/favicon.ico": "/flights/static/media/favicon.c92b85a5.ico"
 }
