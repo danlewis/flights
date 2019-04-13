@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/flights/static/media/aircraftatlas.57ecb70f.png"
   },
   {
-    "revision": "21bc4ae5478ee327288d5fdaca959242",
+    "revision": "c1dfce3a14e2817c63d42534bca4d396",
     "url": "/flights/index.html"
   }
 ];
