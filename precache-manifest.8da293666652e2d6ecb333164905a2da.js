@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "8c0113922cb0a78bed1c",
-    "url": "/flights/static/css/main.cfcc6aa0.chunk.css"
+    "revision": "ff6f425c2b3ebadce97c",
+    "url": "/flights/static/css/main.e3a6f3fd.chunk.css"
   },
   {
-    "revision": "8c0113922cb0a78bed1c",
+    "revision": "ff6f425c2b3ebadce97c",
     "url": "/flights/static/js/main.85876ac2.chunk.js"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/flights/static/media/aircraftatlas.57ecb70f.png"
   },
   {
-    "revision": "c1dfce3a14e2817c63d42534bca4d396",
+    "revision": "29e1392c6de7f4e07aadaa1329c84d32",
     "url": "/flights/index.html"
   }
 ];
